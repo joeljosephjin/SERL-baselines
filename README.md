@@ -1,7 +1,7 @@
-# SERL-baselines
+# Sample Efficient Reinforcement Learning (SEARL) - baselines
 Stable-Baselines implementations have become the go-to for quick and baseline testing of basic algorithms in Model Free Reinforcement Learning (MFRL).
 
-Through Sample Efficient Reinforcemnt Learning (SEARL), we intend to construct a similar alternative for algorithms in Model-Based Reinforcement Learning (MBRL) and Meta Reinforcment Learning (Meta-RL) fields.
+Through Sample Efficient Reinforcement Learning (SEARL), we intend to construct a similar alternative for algorithms in Model-Based Reinforcement Learning (MBRL) and Meta Reinforcment Learning (Meta-RL) fields.
 
 # Algorithms
 
