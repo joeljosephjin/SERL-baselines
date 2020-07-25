@@ -18,4 +18,4 @@ pytorch
 
 # Other Repos
 ## Note that this repo contains a lot of code copied from these implementations, so most of the credit goes to these guys.
-1. Model Based Reinforcement Learning Benchmarking Library (MBBL)[https://github.com/WilsonWangTHU/mbbl]
+1. [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl)
