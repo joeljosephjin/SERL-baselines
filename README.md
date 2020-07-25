@@ -23,7 +23,7 @@ pytorch
 5. Humanoid
 6. Half-Cheetah
 7. Swimmer
-8. ProcGen
+8. [ProcGen](https://github.com/openai/procgen)
 
 # Other Repos
 ## Note that this repo contains a lot of code copied from these implementations, so most of the credit goes to these devs.
