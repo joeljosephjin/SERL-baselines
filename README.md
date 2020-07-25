@@ -3,8 +3,14 @@ Stable-Baselines implementations have become the go-to for quick and baseline te
 
 Through Sample Efficient Reinforcemnt Learning (SEARL), we intend to construct a similar alternative for algorithms in Model-Based Reinforcement Learning (MBRL) and Meta Reinforcment Learning (Meta-RL) fields.
 
+# Algorithms
+
+## Meta-RL
+PEARL [Under Construction]
+
 # Dependencies
 gym
+
 pytorch
 
 # Environments
