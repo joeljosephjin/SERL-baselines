@@ -8,6 +8,8 @@ Through Sample Efficient Reinforcement Learning (SEARL), we intend to construct 
 ## Meta-RL
 PEARL [Under Construction]
 
+MB-MPO [Under Construction]
+
 # Dependencies
 gym
 
