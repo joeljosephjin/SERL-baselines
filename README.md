@@ -24,5 +24,6 @@ pytorch
 8. ProcGen
 
 # Other Repos
-## Note that this repo contains a lot of code copied from these implementations, so most of the credit goes to these guys.
+## Note that this repo contains a lot of code copied from these implementations, so most of the credit goes to these devs.
 1. [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl)
+2. [PEARL Implementation](https://github.com/katerakelly/oyster)
