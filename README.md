@@ -6,6 +6,8 @@ Through Sample Efficient Reinforcement Learning (SEARL), we intend to construct 
 # Algorithms
 
 ## Meta-RL
+MQL [Under Construction]
+
 PEARL [Under Construction]
 
 MB-MPO [Under Construction]
