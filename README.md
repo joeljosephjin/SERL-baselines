@@ -8,9 +8,11 @@ Through Sample Efficient Reinforcement Learning (SEARL), we intend to construct 
 ## Meta-RL
 MQL [Under Construction]
 
-PEARL [Under Construction]
+Localized Neural Optimizer [Under Construction]
 
-MB-MPO [Under Construction]
+PEARL [Future]
+
+MB-MPO [Future]
 
 # Dependencies
 gym
